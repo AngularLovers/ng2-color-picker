@@ -1,0 +1,20 @@
+{
+  "name": "ng2-color-picker",
+  "version": "1.0.0",
+  "description": "ng2-color-picker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qq83387856/ng2-color-picker.git"
+  },
+  "keywords": ["angular2","color-picker"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qq83387856/ng2-color-picker/issues"
+  },
+  "homepage": "https://github.com/qq83387856/ng2-color-picker#readme"
+}
