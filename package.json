@@ -1,6 +1,6 @@
 {
   "name": "ng2-color-picker",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "ng2-color-picker",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "keywords": ["angular2","color-picker"],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/qq83387856/ng2-color-picker/issues"
   },
